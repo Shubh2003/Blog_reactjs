@@ -1,10 +1,4 @@
-import React from "react";
-
-export default function Footer(){
-    return (
-        <div>Footer</div>
-    )
-}import React from 'react'
+import React from 'react'
 import { Link } from 'react-router-dom'
 import Logo from '../Logo'
 
@@ -146,3 +140,4 @@ function Footer() {
   )
 }
 
+export default Footer
